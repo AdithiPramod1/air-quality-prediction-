@@ -1,4 +1,4 @@
- **AirAware - Air Quality Prediction System**
+**Air Quality Prediction System**
 
  **Description**
 
