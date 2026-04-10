@@ -1,12 +1,12 @@
- AirAware - Air Quality Prediction System
+ **AirAware - Air Quality Prediction System**
 
- Description
+ **Description**
 
 AirAware is a machine learning project that predicts air quality based on environmental data.
 It helps users understand pollution levels and take necessary precautions.
 
 
-Objective
+**Objective**
 
 * Analyze air quality data
 * Predict Air Quality Index (AQI)
@@ -43,7 +43,7 @@ Features
 
 
  Technologies Used
-
+ 
 * Python
 * Pandas
 * Scikit-learn
@@ -60,7 +60,7 @@ How to Run
    streamlit run app.py
 
 
- Output
+Output
 
 * Displays predicted AQI value
 
